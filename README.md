@@ -3,7 +3,8 @@ Search for bluetooth devices on Raspberry Pi 4 B. With saving all found devices 
 ## Screenshots
 ![Raspberry Pi 4 B](https://github.com/protocolNZT/Rpi4_search_bluetooth_device/blob/master/images/screenshot.png)
 
-##Install##
+#Install
+
 ```pi@raspberrypi:~ $ sudo pip install pexpect```
 
 ```pi@raspberrypi:~ $ cd ~/Downloads```
